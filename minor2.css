@@ -1,0 +1,25 @@
+/* Ref:  http://www.w3schools.com/css/css_syntax.asp */
+body, html {
+		height: 100%
+		width: 100%
+
+}
+body { /* General style rules for the body section */
+ /*background-color:black;*/
+	color:lightblue;
+	text-decoration:underline;
+	background-image: url(/images/error8.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h3 { /* Matches elements with h3 tag */
+	color: lightblue;
+	text-decoration: underline;
+}
+
+#divimage {
+	position: absolute;
+	left: 40.66%;
+	top: 30.39%;
+}

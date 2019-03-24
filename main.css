@@ -18,6 +18,12 @@ h3 { /* Matches elements with h3 tag */
 	text-decoration: underline;
 }
 
+#divimage {
+	position: absolute;
+	left: 47.24%;
+	top: 14.7%;
+}
+
 #div1 { /* Matches element with id=SimpleDiv */
 	background-color: gray;
 
@@ -34,10 +40,9 @@ h3 { /* Matches elements with h3 tag */
 #div2 {
 /*background-color: white;*/
 	position: absolute;
-	left: 50%
-	top: 15%
+
 	margin: 5%;
-	padding: 1px;
+	padding: 6px;
 	float: left;
 
   width:10%;
@@ -60,9 +65,3 @@ h3 { /* Matches elements with h3 tag */
 	clear:both;
 
 }
-
-#divimage {
-
-	position: absolute;
-	left: 1%
-	top: 1%

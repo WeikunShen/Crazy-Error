@@ -8,7 +8,7 @@ body { /* General style rules for the body section */
  /*background-color:black;*/
 	color:lightblue;
 	text-decoration:underline;
-	background-image: url(/images/error8.png);
+	background-image: url(images/error8.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
